@@ -52,5 +52,8 @@
 		<input type="text" value="0" class="input"></input>
 		<?php } ?>
 	</div>
+	<div>
+		<a href="home.php">HOME</a>
+	</div>
 </body>
 </html>
